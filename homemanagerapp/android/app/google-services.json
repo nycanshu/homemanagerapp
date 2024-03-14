@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "564654454593",
+    "firebase_url": "https://home-1d285-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "home-1d285",
+    "storage_bucket": "home-1d285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564654454593:android:ab18343ba2c08ed2cd93c0",
+        "android_client_info": {
+          "package_name": "com.example.homeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564654454593-0jjhh1dtbh6niui0i5cao34s7iu7g479.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homeapp",
+            "certificate_hash": "9931005d4898b558151b92d42d1369709196991b"
+          }
+        },
+        {
+          "client_id": "564654454593-jqvdgmqca5kvqhuejlt2mnls9guaqh2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9cYH5WRMVPMKDplUCCMkhf0a2O5IAGjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564654454593-jqvdgmqca5kvqhuejlt2mnls9guaqh2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "564654454593-0ku932ks1ltmii52n60odnl249kk77pr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homeapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564654454593:android:8504651725cc954ccd93c0",
+        "android_client_info": {
+          "package_name": "com.example.homemanagerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564654454593-k6vpj7vjhf7b2v8523ncksnctokrdtem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homemanagerapp",
+            "certificate_hash": "9931005d4898b558151b92d42d1369709196991b"
+          }
+        },
+        {
+          "client_id": "564654454593-jqvdgmqca5kvqhuejlt2mnls9guaqh2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9cYH5WRMVPMKDplUCCMkhf0a2O5IAGjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564654454593-jqvdgmqca5kvqhuejlt2mnls9guaqh2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "564654454593-0ku932ks1ltmii52n60odnl249kk77pr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homeapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
